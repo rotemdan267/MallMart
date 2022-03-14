@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\האקר-יו\פרויקט אמצע\MallMart\MallMart\MallMartDB\bin\Debug\net6.0-windows\MallMartDB.deps.json
+C:\Users\User\Desktop\האקר-יו\פרויקט אמצע\MallMart\MallMart\MallMartDB\bin\Debug\net6.0-windows\MallMartDB.runtimeconfig.json
+C:\Users\User\Desktop\האקר-יו\פרויקט אמצע\MallMart\MallMart\MallMartDB\bin\Debug\net6.0-windows\MallMartDB.dll
+C:\Users\User\Desktop\האקר-יו\פרויקט אמצע\MallMart\MallMart\MallMartDB\bin\Debug\net6.0-windows\MallMartDB.pdb
+C:\Users\User\Desktop\האקר-יו\פרויקט אמצע\MallMart\MallMart\MallMartDB\obj\Debug\net6.0-windows\MallMartDB.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\האקר-יו\פרויקט אמצע\MallMart\MallMart\MallMartDB\obj\Debug\net6.0-windows\MallMartDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\האקר-יו\פרויקט אמצע\MallMart\MallMart\MallMartDB\obj\Debug\net6.0-windows\MallMartDB.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\האקר-יו\פרויקט אמצע\MallMart\MallMart\MallMartDB\obj\Debug\net6.0-windows\MallMartDB.AssemblyInfo.cs
+C:\Users\User\Desktop\האקר-יו\פרויקט אמצע\MallMart\MallMart\MallMartDB\obj\Debug\net6.0-windows\MallMartDB.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\האקר-יו\פרויקט אמצע\MallMart\MallMart\MallMartDB\obj\Debug\net6.0-windows\MallMartDB.dll
+C:\Users\User\Desktop\האקר-יו\פרויקט אמצע\MallMart\MallMart\MallMartDB\obj\Debug\net6.0-windows\refint\MallMartDB.dll
+C:\Users\User\Desktop\האקר-יו\פרויקט אמצע\MallMart\MallMart\MallMartDB\obj\Debug\net6.0-windows\MallMartDB.pdb
+C:\Users\User\Desktop\האקר-יו\פרויקט אמצע\MallMart\MallMart\MallMartDB\obj\Debug\net6.0-windows\MallMartDB.genruntimeconfig.cache
+C:\Users\User\Desktop\האקר-יו\פרויקט אמצע\MallMart\MallMart\MallMartDB\obj\Debug\net6.0-windows\ref\MallMartDB.dll
